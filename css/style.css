@@ -65,7 +65,7 @@ body {
 .botao:hover {
     /* Cor do texto e fundo - Quando tem link */
     color: #ffffff;
-    background-color: #e732c0;
+    background-color: #ff044f;
 }
 
 /* SOCIAL */
@@ -81,7 +81,7 @@ body {
 .social a:hover {
     /* Cor do ícone - Quando tem link */
     text-decoration: none;
-    color: #e732c0;
+    color: #ff0627;
 }
 
 .social ul li {
